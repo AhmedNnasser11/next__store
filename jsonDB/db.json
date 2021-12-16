@@ -1,0 +1,114 @@
+{
+    "navbar": [
+        {
+            "title": "Home",
+            "path": "/",
+            "subNav": [
+                {
+                    "title": "shop 1",
+                    "path": "#"
+                },
+                {
+                    "title": "Shop 2",
+                    "path": "/"
+                }
+            ]
+        },
+        {
+            "title": "Features",
+            "path": "#",
+            "subNav": [
+                {
+                    "title": "Shop 1",
+                    "path": "/"
+                },
+                {
+                    "title": "Shop 2",
+                    "path": "/"
+                },
+                {
+                    "title": "Shop 3",
+                    "path": "/"
+                }
+            ]
+        },
+        {
+            "title": "Pages",
+            "path": "/",
+            "subNav": [
+                {
+                    "title": "shop 1",
+                    "path": "#"
+                },
+                {
+                    "title": "Shop 2",
+                    "path": "/"
+                }
+            ]
+        },
+        {
+            "title": "Products",
+            "path": "/products"
+        },
+        {
+            "title": "Team",
+            "path": "/team"
+        }
+    ],
+    "special":[
+        {
+            "kind":"Outerwear",
+            "type":"New",
+            "collection": "Collection",
+            "img":"/imgs/7.png"
+        },
+        {
+            "kind":"Summer",
+            "type":"Hot",
+            "collection": "Collection",
+            "img":"/imgs/2.png"
+        },
+        {
+            "kind":"Arrivals",
+            "type":"New",
+            "img":"/imgs/3.png"
+        },
+        {
+            "kind":"Offer",
+            "type":"Hot",
+            "img":"/imgs/4.png"
+        },
+        {
+            "kind":"Arrivals",
+            "type":"New",
+            "img":"/imgs/5.png"
+        },
+        {
+            "kind":"Offer",
+            "type":"Hot",
+            "img":"/imgs/6.png"
+        }
+    ],
+    "products": [
+        {
+            "img": "/imgs/3.png",
+            "title": "T-Shirt For Men",
+            "price": "$72.00"
+        },
+        {
+            "img": "/imgs/3.png",
+            "title": "Green Dress For Woman",
+            "price": "$38.00"
+        },
+        {
+            "img": "/imgs/3.png",
+            "title": "V-Neck Dress",
+            "price": "$34.00"
+        },
+        {
+            "img": "/imgs/3.png",
+            "title": "Maxi Dress",
+            "price": "$43.00"
+        }
+    ]
+}
