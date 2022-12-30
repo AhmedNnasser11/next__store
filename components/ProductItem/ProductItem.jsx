@@ -16,8 +16,8 @@ import { useRouter } from 'next/router'
 const ProductItem = ({ product }) => {
   const router = useRouter()
   const handleRoute = () => {
-    router.push(`/productdetail/${product.id}`)
-    console.log("product Detail")
+    router.push(`/productdetail/${product.id}`) 
+    console.log("product Detail") 
   }
 
   return (
