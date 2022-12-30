@@ -11,9 +11,9 @@ import {
   CustomButtonIcon,
   IconsContainer,
 } from "./ProductItemStyle";
-import { useRouter } from 'next/router'
+import { useRouter } from 'next/router' 
 
-const ProductItem = ({ product }) => {
+const ProductItem = ({ product }) => { 
   const router = useRouter()
   const handleRoute = () => {
     router.push(`/productdetail/${product.id}`) 
